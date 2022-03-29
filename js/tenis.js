@@ -370,4 +370,4 @@ class Modelo {
   }
 }
 
-new Tenis()
+var app = new Tenis()
